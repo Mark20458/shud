@@ -2,7 +2,7 @@ CMAKE_MINIMUM_REQUIRED(VERSION 3.12) # cmake最低版本要求
 
 PROJECT(shudu)    # 工程名 CppTemplate
 
-set(CMAKE_CXX_STANDARD 11) # C++17标准
+set(CMAKE_CXX_STANDARD 11) # C++11标准
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # add_subdirectory(test) # 添加test子目录
